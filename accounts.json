@@ -1,0 +1,34 @@
+{
+  "accounts": [
+    {
+      "account_type": "Checking",
+      "account_number": "0012458793",
+      "account_name": "Primary Checking",
+      "broker": "Bank of America"
+    },
+    {
+      "account_type": "Savings",
+      "account_number": "9983124576",
+      "account_name": "Emergency Fund",
+      "broker": "Chase"
+    },
+    {
+      "account_type": "Brokerage",
+      "account_number": "BRK-5587421",
+      "account_name": "Investment Portfolio",
+      "broker": "Fidelity"
+    },
+    {
+      "account_type": "Retirement",
+      "account_number": "IRA-4478923",
+      "account_name": "Traditional IRA",
+      "broker": "Vanguard"
+    },
+    {
+      "account_type": "Credit",
+      "account_number": "CC-9912345",
+      "account_name": "Rewards Credit Card",
+      "broker": "Citi"
+    }
+  ]
+}
